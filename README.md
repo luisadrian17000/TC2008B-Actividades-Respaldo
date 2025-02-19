@@ -11,7 +11,6 @@
 #### Liga jira https://towytech.atlassian.net/jira/software/projects/TC2038/boards/4
 #### Liga repo https://towytech-admin@bitbucket.org/towytech/tc2005b-actividades.git
 
-¡Claro que sí! Aquí te armo la redacción formal y completa considerando la **conformación del equipo**, **fortalezas**, **áreas de oportunidad**, **expectativas del bloque** y **compromisos como equipo**, integrando lo que me mencionaste y complementando con habilidades realistas para los integrantes que no especificaste:
 
 ---
 
